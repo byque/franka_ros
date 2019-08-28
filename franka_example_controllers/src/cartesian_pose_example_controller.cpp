@@ -1,5 +1,11 @@
-// Copyright (c) 2017 Franka Emika GmbH
-// Use of this source code is governed by the Apache-2.0 license, see LICENSE
+/**
+ * @file cartesian_pose_example_cotroller.cpp
+ * @brief this is the brief description.
+ *
+ * @details Copyright (c) 2017 Franka Emika GmbH
+ * Use of this source code is governed by the Apache-2.0 license, see LICENSE
+ */
+
 #include <franka_example_controllers/cartesian_pose_example_controller.h>
 
 #include <cmath>
